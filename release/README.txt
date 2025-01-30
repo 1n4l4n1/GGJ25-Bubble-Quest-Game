@@ -1,0 +1,1 @@
+This game developed with Unity has been successfully built for the Windows platform. The build process was completed without issues, and the executable file is now ready for deployment. The game runs smoothly on Windows, ensuring optimal performance and compatibility.
